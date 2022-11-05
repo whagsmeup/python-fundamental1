@@ -23,3 +23,4 @@ print(f"\n Driver Di Sekitar Sini {data_server_gojek['driver_list']}")
 print(f"Driver #1 {data_server_gojek['driver_list'][0]}")
 print(f"Driver #2 {data_server_gojek['driver_list'][1]}")
 print(f"Driver Terdekat Berjarak {data_server_gojek['driver_list'][1]['jarak']}")
+
